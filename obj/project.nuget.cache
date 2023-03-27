@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5FyCSY1GQCTwyZzUY4WSwZo69eEYHrPBGlwiScVbEievpCyRslogTydHnZe+7kpZDH2+I35hmQHFfSswwtO1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguba\\Documents\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguba\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
